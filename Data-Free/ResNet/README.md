@@ -1,4 +1,4 @@
-# DFPC: Data flow driven pruning of coupled channels without data.
+# [ICLR 2023] DFPC: Data flow driven pruning of coupled channels without data.
 [ICLR 2023] PyTorch Code to prune ResNets using DFPC: Data flow driven pruning of coupled channels without data.
 
 ## Step 1: Set up environment
