@@ -1,6 +1,6 @@
 # [ICLR 2023] DFPC: Data flow driven pruning of coupled channels without data.
 This repository is for the new deep neural network pruning method introduced in the following ICLR 2023 paper:
-> **DFPC: Data flow driven pruning of coupled channels without data. [[Camera Ready](https://openreview.net/forum?id=mhnHqRqcjYU&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2023%2FConference%2FAuthors%23your-submissions))]** \
+> **DFPC: Data flow driven pruning of coupled channels without data. [[Camera Ready](https://openreview.net/forum?id=mhnHqRqcjYU)]** \
 > [Tanay Narshana](https://tanaynarshana.github.io/), [Chaitanya Murti](https://mllab.csa.iisc.ac.in/members/), and [Chiranjib Bhattacharyya](https://www.csa.iisc.ac.in/~chiru/) \
 > Indian Institute of Science, Bengaluru, India.
 
@@ -14,6 +14,7 @@ Coming up..
 2. Data-driven code for pruning resnets
 3. ~~pruned models for resnet-50 in the data-driven regime.~~
 
+Available Code:
 1. Code for data-free experiments is available in the `Data-Free` folder.
 2. Pruned models for the data-driven experiment for ResNet-50 on the ImageNet dataset is available in the `Pruned-Models` folder.
 
