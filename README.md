@@ -4,7 +4,7 @@ This repository is for the new deep neural network pruning method introduced in 
 > [Tanay Narshana](https://tanaynarshana.github.io/), [Chaitanya Murti](https://mllab.csa.iisc.ac.in/members/), and [Chiranjib Bhattacharyya](https://www.csa.iisc.ac.in/~chiru/) \
 > Indian Institute of Science, Bengaluru, India.
 
-TLDR: This paper introduces a novel method for pruning of networks containing coupled connections, DFPC.
+TLDR: This paper introduces a novel method for pruning of networks containing coupled connections without using data, DFPC.
 
 We posit "coupled connections" as a bottleneck to obtain lower inference latencies when pruning networks. We then provide a formalization to abstract "coupled connections" and use it to derive a data-free way to measure the importance of coupled neurons in a network. Our experimental results display the merit in pruning "coupled connections" for they obtain pruned models with a better latency-vs-accuracy.
 
