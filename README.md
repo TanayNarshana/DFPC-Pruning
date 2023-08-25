@@ -33,3 +33,6 @@ Please cite this in your publication if our work helps your research:
 
 ## Acknowledgments
 We are grateful for the code made available by [pytorch imagenet example](https://github.com/pytorch/examples/tree/master/imagenet), [Regularization-Pruning](https://github.com/MingSun-Tse/Regularization-Pruning), and [pytorch-summary](https://github.com/sksq96/pytorch-summary).
+
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FTanayNarshana%2FDFPC-Pruning&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FTanayNarshana%2FDFPC-Pruning)
